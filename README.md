@@ -11,12 +11,12 @@ Display the reviews on a web page
 ### Home Page
 The home page displays a search box where users can enter the product they want to search for on Flipkart. 
 
-![image](./Documents/homepage.png)
+![Home Page](https://github.com/melbinbiju1/Flipkart-Review-Scrapper/blob/main/Documents/homepage.png)
 
 ### Results Page
 After entering the product name and clicking on the 'Search' button, the results page displays a table of product reviews extracted from Flipkart website.
 
-![image](./Documents/resultspage.png)
+![Results Page](https://github.com/melbinbiju1/Flipkart-Review-Scrapper/blob/main/Documents/resultspage.png)
 
 ## Usage
 Clone the repository.
