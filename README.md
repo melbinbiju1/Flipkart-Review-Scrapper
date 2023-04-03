@@ -19,13 +19,13 @@ After entering the product name and clicking on the 'Search' button, the results
 ![Results Page](./Documents/resultspage.png)
 
 ## Usage
-Clone the repository.
-Install the required dependencies by running pip install -r requirements.txt.
-Run the application using python app.py.
-Navigate to homepage of project in your web browser.
-Enter a keyword to search for a product on Flipkart.
-Click on the search button.
-The reviews will be displayed on a web page.
+- Clone the repository.
+- Install the required dependencies by running pip install -r requirements.txt.
+- Run the application using python app.py.
+- Navigate to homepage of project in your web browser.
+- Enter a keyword to search for a product on Flipkart.
+- Click on the search button.
+- The reviews will be displayed on a web page.
 
 ## Technologies Used
 - Flask
