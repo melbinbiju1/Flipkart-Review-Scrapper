@@ -1,0 +1,57 @@
+/* Apply a reset to normalize styles across different browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set global font styles */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  /* Set styles for the table */
+  .table-users {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1000px;
+  }
+  
+  /* Set styles for the table header */
+  .table-users th {
+    background: #f2f2f2;
+    border-bottom: 1px solid #ccc;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+  }
+  
+  /* Set styles for the table data */
+  .table-users td {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  /* Set styles for the table data in the first column */
+  .table-users td:first-child {
+    font-weight: bold;
+    width: 20%;
+  }
+  
+  /* Set styles for the table header and data in the last column */
+  .table-users th:last-child,
+  .table-users td:last-child {
+    width: 30%;
+  }
+  
+  /* Set styles for the page header */
+  .header {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
